@@ -8,7 +8,7 @@
 
 ## Security Report
 - [Integer Overflow in Blender](https://developer.blender.org/rB32df09b2416a6961704eca0fe73534c8c4e715b2)
-- [Logical Bugs in Blender](https://developer.blender.org/T99705](https://developer.blender.org/rB32df09b2416a6961704eca0fe73534c8c4e715b2)
+- [Logical Bugs in Blender](https://developer.blender.org/rB32df09b2416a6961704eca0fe73534c8c4e715b2)
 - [Null pointer Reference in Blender](https://developer.blender.org/rBc82e9d4ec81c5119b4bf0a211f89273dc3ede9b4)
 - DDOS in Xpdf Reader[CVE-2022-34921](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-34921)
 - DDOS in Xpdf Reader[CVE-2022-34923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-34923)
