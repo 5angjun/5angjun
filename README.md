@@ -4,6 +4,9 @@
 - My name is Sangjun Park
 - I'm interested in Fuzzer, binary analysis.
 
+## 📫 How to reach me
+- sangjun.cyber@gmail.com
+- best_collin@naver.com
 
 
 ## Security Report
@@ -15,7 +18,7 @@
 
 
 ## Project
-- [XAI based Dog Breed Classification](https://github.com/Classufy/xai-dog-breed-classification)
+- [XAI based Dog Breed Classification](https://github.com/Classufy/xai-dog-breed-classification) 2022.03 ~ 2022.07
 - [Word Quiz Android App](https://www.youtube.com/watch?v=67S_BsujPGk) 2021.09 ~ 2021.12
 - [MarkDown previewer with Chrome extension](https://chrome.google.com/webstore/detail/markdown-previewer/kjpemlmcdcemopobmeidmgaanlceingm?hl=ko) 2021.03 ~ 2021.06
 - [DDokDDok](https://tv.kakao.com/v/419147965) 2021.01 ~ 2021.03
