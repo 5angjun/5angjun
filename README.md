@@ -8,7 +8,7 @@
 ## 📫 How to reach me
 - sangjun.cyber@gmail.com
 - best_collin@naver.com
-
+- [My Tech Blog](http://sangjun.xyz)
 
 ## 🌱 Security Report
 - [Integer Overflow in Blender](https://developer.blender.org/rB32df09b2416a6961704eca0fe73534c8c4e715b2)
