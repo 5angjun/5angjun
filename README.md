@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello 안녕하세요 こんにちは 你好 👋
 
+
+
+
+## Project
+- [Word Quiz Android App](https://www.youtube.com/watch?v=67S_BsujPGk) 2021.09 ~ 2021.12
+- [MarkDown previewer with Chrome extension](https://chrome.google.com/webstore/detail/markdown-previewer/kjpemlmcdcemopobmeidmgaanlceingm?hl=ko) 2021.03 ~ 2021.06
+- [DDokDDok](https://tv.kakao.com/v/419147965) 2021.01 ~ 2021.03
 <!--
 **5angjun/5angjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
