@@ -3,6 +3,7 @@
 ## 😄 Introduce 
 - My name is Sangjun Park
 - I'm interested in Fuzzer, binary analysis.
+- I' educated at Soongsil University.
 
 ## 📫 How to reach me
 - sangjun.cyber@gmail.com
