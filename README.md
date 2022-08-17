@@ -13,9 +13,7 @@
 - [My Tech Blog](http://sangjun.xyz)
 
 ## 🌱 Security Report
-- Blender : [CVE-2022-2831 (Integer Overflow && Out of Bound memory access)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2831)
-- [CVE-2022-2832 (Logical Bugs in Blender)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2833)
-- [CVE-2022-2832 (Null pointer Reference in Blender)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2832)
+- Blender : [CVE-2022-2831 (Integer Overflow && Out of Bound memory access)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2831) [CVE-2022-2832 (Logical Bugs)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2833) [CVE-2022-2832 (Null pointer Reference)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2832)
 - Xpdf Reader : [CVE-2022-34921](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-34921) [CVE-2022-34923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-34923)
 
 
