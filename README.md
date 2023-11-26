@@ -1,5 +1,3 @@
-### Hello 안녕하세요 こんにちは 你好 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sangjun's%20Profile&descAlignY=51&descAlign=62)
 # Sang jun
 
 ![https://media4.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=7941fdc685k0am9f2s4jj1r4l2brqfw57vlam720im6t40s8&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media4.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=7941fdc685k0am9f2s4jj1r4l2brqfw57vlam720im6t40s8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
