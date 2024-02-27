@@ -58,7 +58,15 @@ CTF player in **cat :flag_kr: ( a.k.a cat** 🇰🇷 )
 
 ## 📝 Bug Hunt
 
-**coming soon**
+- **2023~2024(team, [0dayResearchLab](https://github.com/0dayResearchLab))**
+    - **CVE-2024-20653**, Local Privilege Escalation in Windows Kernel.
+    - **CVE-2023-31341**(AMD) / **CVE-2023-46859**(MSI) / **CVE-2023-46280**(Simens)
+    - Bounty from [**Sophos**](https://www.sophos.com/en-us)
+    - **CVE-2023-47569~72**(Jungo)
+    - [HoF](https://csr.msi.com/global/product-security-advisories) / [HoF](https://www.escanav.com/en/support/eScan-hall-of-fame.asp)
+    - waiting for CVE…
+- **2022**
+    - **CVE-2022-2831**, Remote Code Execution in Blender
 
 ## Blog
 
