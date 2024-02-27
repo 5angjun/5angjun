@@ -48,11 +48,11 @@ I’m Sangjun Park.
 
 ## 🧾Award & CTF
 
-`**2023**` **HITCON CTF 2023 4th (프로그램털모찌)**
+**`2023`** **HITCON CTF 2023 4th (프로그램털모찌)**
 
-`**2023**` **Hacker’s Playground 2023 3rd ( Cy + Kr )**
+**`2023`** **Hacker’s Playground 2023 3rd ( Cy + Kr )**
 
-`**2022` [Hacktheon 2022 1st (Team ASC)](https://www.smartcitytoday.co.kr/news/articleView.html?idxno=24207)**
+**`2022`** [Hacktheon 2022 1st (Team ASC)](https://www.smartcitytoday.co.kr/news/articleView.html?idxno=24207)
 
 CTF player in **cat :flag_kr: ( a.k.a cat** 🇰🇷 )
 
