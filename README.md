@@ -6,7 +6,9 @@
 
 I’m Sangjun Park.
 
-*CyberSecurity Researcher*
+*Master Student*
+
+*To be a CyberSecurity Researcher*
 
 **📫 email `best_collin@naver.com`**
 
@@ -18,26 +20,14 @@ I’m Sangjun Park.
 
 **🌱 Automatic Bug finding**
 
-## 🎡 Favorite
-
-**😺Cat**
-
-
-## **👩‍💻Project**
-
-**`2023.07` Kitri BoB 12th**
-
-**`2023.03` SSU Cyber Security Lab**
-
-**`2022.09~2023.01` SSL : Linux Kernel Device Driver Fuzzing**
-
-**`2020.12~2022.06` 산/학 협력 연구 : 프로토콜 분석 with   [Entobil Soft](https://www.entobilsoft.com/)**
-
 ## **🎓 Education**
 
 **`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
 
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
+
+## **📹 Presentations**
+**CodeBlue2024** **[Link](https://codeblue.jp/en/program/time-table/day2-010/)** **[Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf)** **[Code](https://github.com/0dayResearchLab/msFuzz)**
 
 ## 🧾CTF Participant
 
