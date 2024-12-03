@@ -4,15 +4,11 @@
 
 ### **"Hello 안녕하세요 こんにちは 你好👋**
 
-I’m Sangjun Park.
-
-*Master Student*
-
-*To be a CyberSecurity Researcher*
+I'm **Sangjun Park**, a **master's student** concentrating on **_software engineering**_ and **_Cyber Security_**.
 
 **📫 email `best_collin@naver.com`**
 
-## 👣 Interested
+## 👣 Research Interests
 
 **🌱 Fuzzing**
 
@@ -26,7 +22,7 @@ I’m Sangjun Park.
 
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
-## **📹 Presentations**
+## **📹 Talks**
 **CodeBlue2024** **[Link](https://codeblue.jp/en/program/time-table/day2-010/)** **[Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf)** **[Code](https://github.com/0dayResearchLab/msFuzz)**
 
 ## 🧾CTF Participant
@@ -39,7 +35,7 @@ I’m Sangjun Park.
 
 **`2022` [Hacktheon 2022 1st (Team ASC)](https://www.smartcitytoday.co.kr/news/articleView.html?idxno=24207)**
 
-CTF player in **cat :flag_kr: ( a.k.a cat** 🇰🇷 )
+As a CTF player in **cat :flag_kr: ( a.k.a cat** 🇰🇷 )
 
 ## 📝 Bug Finding
 
