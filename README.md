@@ -4,7 +4,7 @@
 
 ### **"Hello 안녕하세요 こんにちは 你好👋**
 
-I'm **Sangjun Park**, a **master's student** concentrating on **_software engineering**_ and **_Cyber Security_**.
+I'm **Sangjun Park**, a **master's student** concentrating on **_software engineering_** and **_Cyber Security_**.
 
 **📫 email `best_collin@naver.com`**
 
