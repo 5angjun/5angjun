@@ -23,7 +23,7 @@ I'm **Sangjun Park**, a **master's student** concentrating on **_software engine
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
 ## **📹 Talks**
-**CodeBlue2024** **[Link]([https://codeblue.jp/en/program/time-table/day2-010/](https://note.com/code_blue/n/n994e308f2f26/))** **[Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf)** **[Code](https://github.com/0dayResearchLab/msFuzz)** **[_Video_](https://www.youtube.com/watch?v=90ET7F3-T7I)**
+**CodeBlue2024** **[Link](https://note.com/code_blue/n/n994e308f2f26/)** **[Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf)** **[Code](https://github.com/0dayResearchLab/msFuzz)** **[_Video_](https://www.youtube.com/watch?v=90ET7F3-T7I)**
 
 ## 🧾CTF Participant
 
