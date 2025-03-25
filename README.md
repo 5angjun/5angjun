@@ -53,6 +53,8 @@ As a CTF player in **cat :flag_kr: ( a.k.a cat** 🇰🇷 )
 - **2022**
     - **CVE-2022-2831**, Remote Code Execution in Blender
 
+✱ indicates major contribution
+
 ## Blog
 
 [https://sangjun.xyz/](https://sangjun.xyz/)
