@@ -18,7 +18,7 @@ I'm **Sangjun Park**, a **master's student** concentrating on **_software engine
 
 ## **🎓 Education**
 
-**`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
+**`2024~2026` M.S. ** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
 
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
