@@ -6,7 +6,7 @@
 
 I'm **Sangjun Park**, a **master's student** concentrating on **_software engineering_** and **_Cyber Security_**.
 
-**📫 email `sangjuns@kaist.ac.kr`**
+**📫 email `contact.sangjun@gmail.com`**
 
 ## 👣 Research Interests
 
