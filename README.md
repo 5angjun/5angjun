@@ -1,4 +1,4 @@
-# Sang jun
+# Sangjun
 
 ![https://media4.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=7941fdc685k0am9f2s4jj1r4l2brqfw57vlam720im6t40s8&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media4.giphy.com/media/kGdWDdaIEN5yDWKmg4/giphy.gif?cid=7941fdc685k0am9f2s4jj1r4l2brqfw57vlam720im6t40s8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -18,7 +18,7 @@ I'm **Sangjun Park**, a **master's student** concentrating on **_software engine
 
 ## **🎓 Education**
 
-**`2024~2026` M.S. ** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
+**`2024~2026` M.S.** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
 
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
